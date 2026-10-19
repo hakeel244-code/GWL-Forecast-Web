@@ -1,0 +1,12 @@
+,value
+raw_records,983038
+raw_stations,394
+fill_values_removed,18340
+out_of_range_removed,18448
+faulty_sensor_stations_excluded,39
+spike_days_removed,596
+flatline_days_removed,12002
+stations_with_flatlines,39
+short_record_stations_excluded,52
+final_stations,303
+final_valid_station_days,214575
